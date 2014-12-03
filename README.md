@@ -1,4 +1,4 @@
-Hellow-world
+Hello-World
 ============
 
 My first Git Hub repository
